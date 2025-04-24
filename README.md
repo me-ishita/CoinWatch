@@ -1,4 +1,6 @@
 # 🚀 Ishita's CoinWatch — Real-Time Crypto Price Tracker
+
+# 🔗 Live Demo : https://coin-watch-ishita.vercel.app/
 <div align="center">
 <img src="src/assets/logo.svg" alt="" width="100" height="auto"/>
 </div>
@@ -9,9 +11,6 @@
 |-------|------|-------------|--------|-----------|----------------|
 | <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="65"/> | <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="65"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="65"/> | <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React" width="65"/> | <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind" width="65"/> | <img src="https://redux-toolkit.js.org/img/redux.svg" alt="Redux Toolkit" width="65"/> |
 
-<h3 align="left">Live Demo</h3>
-
-🔗 https://coin-watch-ishita.vercel.app/
 
 ⚙️ Setup Instructions
 
