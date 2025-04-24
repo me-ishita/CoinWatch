@@ -13,6 +13,8 @@
 
 Install dependencies -> npm install
 
+Install the Node Modulus
+
 Run the app -> npm start
 
 🔌 API Integration
